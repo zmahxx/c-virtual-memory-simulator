@@ -1,0 +1,16 @@
+# CMake and compiler output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.o
+*.obj
+*.exe
+*.out
+
+# Program-generated reports
+/output.txt
+/snapshot_500.txt
+/snapshot_631.txt
